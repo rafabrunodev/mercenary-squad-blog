@@ -19,7 +19,8 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+          {/* <Link to="/">{data.site.siteMetadata.title}</Link> */}
+          <img alt="logo-mercenary" width="150" src="https://firebasestorage.googleapis.com/v0/b/mercenary-squad.appspot.com/o/mercenary_squad_logo_name_black.svg?alt=media&token=f8208bc0-1339-4d0f-832b-26f34ba01696" />
         </div>
         <Navigation />
       </header>
