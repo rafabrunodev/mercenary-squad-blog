@@ -12,7 +12,9 @@ module.exports = {
     siteUrl: `http://mercenarysquad.com/`,
     home: {
       title: `Blog`,
-      description: `Contrate Freelancers, Consultores e Profissionais para seu projeto. Somos uma comunidade de desenvolvedores, consultores e criativos prontos para o seu projeto.`,
+      description: `
+        Contrate freelancers, consultores e times para desenvolver seus produtos com segurança e praticidade. Utilizando nossa comunidade nós vamos ajudar a acelerar o seu crescimento. Com a Mercenary Squad você tem ao seu alcance um hub de talentos, trabalhando no seu potencial máximo.
+      `,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
