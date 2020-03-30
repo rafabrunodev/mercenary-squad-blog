@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /6-empresas-para-se-inspirar-no-trabalho-remoto
-date: 2020-02-20T07:08:53.137Z
+date: 2020-03-27T07:08:53.137Z
 title: 6 Empresas para se inspirar no trabalho remoto
 thumbnail: /assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg
 metaDescription: Meta description for Hello World
