@@ -3,7 +3,7 @@ template: BlogPost
 path: /hello-world
 date: 2020-02-20T07:08:53.137Z
 title: Hello World
-thumbnail: ''
+thumbnail: /assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg
 metaDescription: Meta description for Hello World
 ---
 
