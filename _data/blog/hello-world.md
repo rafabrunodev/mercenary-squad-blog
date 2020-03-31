@@ -14,26 +14,26 @@ Nós da **[Mercenary Squad](http://mercenarysquad.com/)** já estávamos trabalh
 
 **Então, aqui estão 10 empresas para se inspirar no trabalho remoto:**
 
-GitLab
+##### GitLab
 
 As a collaborative open-source platform, GitLab enables users to unify issues by reviewing, generating, analyzing, and implementing code into a consolidated user interface.
 
-doist
+##### doist
 
 InVision has developed the world’s leading design collaboration platform, which enables users to build interactive and realistic web and mobile mockups and prototypes.
 
-Toggl
+##### Toggl
 
 Toggl is an online time-tracking tool that allows users to monitor and analyze productivity.
 
-X-Team
+##### X-Team
 
 X-Team’s thoroughly vetted community of developers has provided resources to some of the world’s leading brands.
 
-Automattic
+##### Automattic
 
 Through its various services and solutions, Automattic’s mission is to “democratize publishing” so that anyone with a story, regardless of language, politics, gender, income, or location, can share their experience.
 
-Basecamp
+##### Basecamp
 
 Through its various services and solutions, Automattic’s mission is to “democratize publishing” so that anyone with a story, regardless of language, politics, gender, income, or location, can share their experience.
